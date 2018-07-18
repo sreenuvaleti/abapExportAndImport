@@ -11,3 +11,5 @@ WRITE: / var1,
          var2,
          '=',
          var3.
+         
+         Write: / 'Hello'.
