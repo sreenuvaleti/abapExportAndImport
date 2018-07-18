@@ -13,3 +13,4 @@ WRITE: / var1,
          var3.
 
 write: 'Its Good'.
+write: 'Not updated in SAP'.
